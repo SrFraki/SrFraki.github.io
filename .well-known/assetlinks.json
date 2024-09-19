@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
         "namespace": "android_app",
-        "package_name": "com.FKSL.task_share",
+        "package_name": "com.FKSA.task_share",
         "sha256_cert_fingerprints":
         ["35:0C:68:83:EF:57:05:FE:A4:46:45:A3:EE:45:77:07:D6:F5:57:70:46:2D:0C:B8:B5:F3:51:E7:55:03:E5:DB"]
     }
